@@ -3,4 +3,4 @@
 
 The image data used in this study were obtained from the SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology) and are copyrighted accordingly.
 
-For access to the image data, please contact the auther (kentaro.fuku(at)rs.tus.ac.jp) directly.
+For access to the image data, please contact the auther (fuku.kentaro.f6(at)f.mail.nagoya-u.ac.jp) directly.
